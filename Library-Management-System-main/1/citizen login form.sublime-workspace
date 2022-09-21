@@ -1,0 +1,518 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"text-decora",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/authControllers.php",
+			"settings":
+			{
+				"buffer_size": 3836,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "citizen sign up.php",
+			"settings":
+			{
+				"buffer_size": 3472,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "homepage citizen.php",
+			"settings":
+			{
+				"buffer_size": 4280,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "citizen login form.php",
+			"settings":
+			{
+				"buffer_size": 3083,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/1",
+		"/C/xampp/htdocs/1/config"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/1/config/db.php",
+		"/C/xampp/htdocs/1/config/constants.php",
+		"/C/xampp/htdocs/1/citizen sign up.php",
+		"/C/xampp/htdocs/1/citizen login form.php",
+		"/C/xampp/htdocs/1/homepage citizen.php",
+		"/C/xampp/htdocs/test/server.php",
+		"/C/xampp/htdocs/connect.php",
+		"/C/xampp/htdocs/1/citizen sign up.css",
+		"/C/xampp/htdocs/test/citizen sign up.css",
+		"/C/xampp/htdocs/test/citizen sign up.html",
+		"/C/xampp/htdocs/1/citizen login form.html",
+		"/C/xampp/htdocs/test/citizen sign up.php",
+		"/C/xampp/htdocs/test/errors.php",
+		"/C/xampp/htdocs/test/new1.php",
+		"/C/xampp/htdocs/test/homepage citizen.php",
+		"/C/xampp/htdocs/test/citizen login form.php",
+		"/C/xampp/htdocs/index.html",
+		"/C/xampp/htdocs/1/citizen sign up.html",
+		"/C/xampp/htdocs/1/index.html",
+		"/C/xampp/htdocs/1/connect.php",
+		"/C/xampp/htdocs/1/errors.php",
+		"/C/xampp/htdocs/1/server.php",
+		"/C/xampp/htdocs/1/login.php",
+		"/C/xampp/htdocs/project/server.php",
+		"/C/xampp/htdocs/project/citizen sign up.php",
+		"/C/xampp/htdocs/project/errors.php",
+		"/C/xampp/htdocs/project/script1.php",
+		"/C/xampp/htdocs/project/citizen login form.php",
+		"/C/xampp/htdocs/project/login.php",
+		"/C/xampp/htdocs/project/citizen sign up.css",
+		"/C/xampp/htdocs/project/script.php",
+		"/C/xampp/htdocs/project/citizen sign up.html",
+		"/C/xampp/htdocs/project/login_page_admin.html",
+		"/C/Users/Likhitha Kyatham/database1/citizen/citizen login form.html",
+		"/C/Users/Likhitha Kyatham/database1/admin/dashboard.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/station details.html",
+		"/C/Users/Likhitha Kyatham/database1/admin/manage police station.html",
+		"/C/Users/Likhitha Kyatham/database1/admin/manage police station.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/station details.css",
+		"/C/Users/Likhitha Kyatham/database1/admin/view fir.css",
+		"/C/Users/Likhitha Kyatham/database1/admin/view fir.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/fir status.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/fir status.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/station details login.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/citizen login.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/citizen sign up.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/emergency no.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/fir form.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/fir page.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/homepage citizen.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/reset password.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/station details .css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/station details .html",
+		"/C/Users/Likhitha Kyatham/database1/admin/fir details.css",
+		"/C/Users/Likhitha Kyatham/database1/admin/fir details.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/fir form.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/station details login.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/fir page.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/homepage citizen.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/citizen login form.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/emergency no.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/reset password.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/citizen sign up.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen/login page admin.html",
+		"/C/Users/Likhitha Kyatham/database1/update police.html",
+		"/C/Users/Likhitha Kyatham/database1/update_police_station_detail .html",
+		"/C/Users/Likhitha Kyatham/database1/view fir.html",
+		"/C/Users/Likhitha Kyatham/database1/update category.html",
+		"/C/Users/Likhitha Kyatham/database1/view criminals.html",
+		"/C/Users/Likhitha Kyatham/database1/result of search criminal.html",
+		"/C/Users/Likhitha Kyatham/database1/result of search fir.html",
+		"/C/Users/Likhitha Kyatham/database1/search criminal.html",
+		"/C/Users/Likhitha Kyatham/database1/search fir.html",
+		"/C/Users/Likhitha Kyatham/database1/manage police.html",
+		"/C/Users/Likhitha Kyatham/database1/firs between dates.html",
+		"/C/Users/Likhitha Kyatham/database1/manage police station.html",
+		"/C/Users/Likhitha Kyatham/database1/fir details.html",
+		"/C/Users/Likhitha Kyatham/database1/manage category.html",
+		"/C/Users/Likhitha Kyatham/database1/criminal details.html",
+		"/C/Users/Likhitha Kyatham/database1/between dates fir reports.html",
+		"/C/Users/Likhitha Kyatham/database1/between dates criminal reports.html",
+		"/C/Users/Likhitha Kyatham/database1/dashboard.html",
+		"/C/Users/Likhitha Kyatham/database1/criminal details.css",
+		"/C/Users/Likhitha Kyatham/database1/add_category.html",
+		"/C/Users/Likhitha Kyatham/database1/add_police.html",
+		"/C/Users/Likhitha Kyatham/database1/add_police_station_detail.html",
+		"/C/Users/Likhitha Kyatham/database1/admin_profile.html",
+		"/C/Users/Likhitha Kyatham/database1/firs between dates.css",
+		"/C/Users/Likhitha Kyatham/database1/example.html",
+		"/C/Users/Likhitha Kyatham/database1/fir form.css",
+		"/C/Users/Likhitha Kyatham/database1/manage police station.css",
+		"/C/Users/Likhitha Kyatham/database1/login_page_admin.html",
+		"/C/Users/Likhitha Kyatham/database1/search criminal.css",
+		"/C/Users/Likhitha Kyatham/database1/view criminals.css",
+		"/C/Users/Likhitha Kyatham/database1/result of search criminal.css",
+		"/C/Users/Likhitha Kyatham/database1/between dates fir reports.css",
+		"/C/Users/Likhitha Kyatham/database1/between dates criminal reports.css",
+		"/C/Users/Likhitha Kyatham/database1/view fir.css",
+		"/C/Users/Likhitha Kyatham/database1/search fir.css",
+		"/C/Users/Likhitha Kyatham/database1/result of search fir.css",
+		"/C/Users/Likhitha Kyatham/database1/manage category.css",
+		"/C/Users/Likhitha Kyatham/database1/update category.css",
+		"/C/Users/Likhitha Kyatham/database1/update police.css",
+		"/C/Users/Likhitha Kyatham/database1/manage police.css",
+		"/C/Users/Likhitha Kyatham/database1/update_police_station_detail .css",
+		"/C/Users/Likhitha Kyatham/Downloads/index.html",
+		"/C/Users/Likhitha Kyatham/Downloads/style.css",
+		"/C/Users/Likhitha Kyatham/database1/criminals between dates.html",
+		"/C/Users/Likhitha Kyatham/database1/criminals between dates.css",
+		"/C/Users/Likhitha Kyatham/database1/admin profile.html",
+		"/C/Users/Likhitha Kyatham/database1/add category.html",
+		"/C/Users/Likhitha Kyatham/database1/adminprofile - Copy.css",
+		"/C/Users/Likhitha Kyatham/database1/admin profile - Copy.html",
+		"/C/Users/Likhitha Kyatham/database1/add police.css",
+		"/C/Users/Likhitha Kyatham/database1/add police station detail.html",
+		"/C/Users/Likhitha Kyatham/database1/add police.html",
+		"/C/Users/Likhitha Kyatham/database1/add police detail.css",
+		"/C/Users/Likhitha Kyatham/database1/add police detail.html",
+		"/C/Users/Likhitha Kyatham/database1/adminprofile.css",
+		"/C/Users/Likhitha Kyatham/database1/dashboard.css",
+		"/C/Users/Likhitha Kyatham/likhitha/site/citizen sign up.html",
+		"/C/Users/Likhitha Kyatham/likhitha/site/css/citizen sign up.css",
+		"/C/Users/Likhitha Kyatham/database1/style.css",
+		"/C/Users/Likhitha Kyatham/database1/Index.html",
+		"/C/Users/Likhitha Kyatham/Downloads/Index.html",
+		"/C/Users/Likhitha Kyatham/database1/1.html",
+		"/C/Users/Likhitha Kyatham/database1/1.css",
+		"/C/Users/Likhitha Kyatham/database1/2.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"');\n",
+			"}\n",
+			"form",
+			"script1",
+			"Details:",
+			"permanent address",
+			"contact",
+			"width",
+			"purpose of fir",
+			"name of applicants",
+			"crime type",
+			"contact number",
+			"red",
+			"href",
+			"alternate",
+			"Edit",
+			"80px",
+			"button",
+			"navbar",
+			"20px",
+			"10px",
+			";\n",
+			">\n",
+			"block",
+			"#subblock",
+			"block1",
+			"block",
+			"sidebar",
+			"sidebarCollapse",
+			"#sidebarCollapse",
+			">\n",
+			"h3",
+			"navbar",
+			"absolute",
+			"  \n",
+			";\n",
+			"jumbotron",
+			"20",
+			"2px",
+			".container .jumbotron"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"div",
+			"Details of crime:",
+			"Address",
+			"Mobile",
+			"Occurence date:",
+			"Details of crime",
+			"District name",
+			"Complaint type",
+			"#B22222",
+			"table-head",
+			".block",
+			"block",
+			"subblock",
+			"block1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/authControllers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2944,
+								2944
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1612.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "citizen sign up.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "homepage citizen.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "citizen login form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "citizen login form.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Admin profile</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>
+	<link rel="stylesheet" href="adminprofile.css">
+</head>
+<body>
+
+
+<div class="wrapper">
+	
+ <nav id="sidebar" >
+          
+    <ul class="lisst-unstyled components" style="margin-top:50px;">
+      <li class="active">
+      <a href="admin_profile.html">Admin Profile</a>
+    </li>
+    <li>
+      <a href="dashboard.html">Dashboard</a>
+    </li>
+    
+    <li >
+      <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Police station</a>
+      <ul class="collapse list-unstyled" id="homeSubmenu">
+        <li>
+          <a href="add_police_station_detail.html">Add Police station</a>
+        </li>
+        <li>
+          <a href="manage police station.html">Manage Police station</a>
+        </li>
+
+      </ul>
+    </li>
+    <li >
+      <a href="#homeSubmenu1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Police</a>
+      <ul class="collapse list-unstyled" id="homeSubmenu1">
+        <li>
+          <a href="add_police.html">Add Police </a>
+        </li>
+        <li>
+          <a href="manage police.html">Manage Police</a>
+        </li>
+
+      </ul>
+    </li>
+    
+    <li>
+      <a href="#pageSubmenu1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Crime category</a>
+      <ul class="collapse list-unstyled" id="pageSubmenu1">
+        <li>
+          <a href="add_category.html">Add crime</a>
+        </li>
+        <li>
+          <a href="manage category.html">Manage crime</a>
+        </li>
+        
+
+      </ul>
+    </li>
+    
+     <li >
+      <a href="view criminals.html">View criminals</a>
+    </li>
+     <li >
+      <a href="view fir.html">View FIRs</a>
+    </li>
+      <li >
+      <a href="#homeSubmenu2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Reports</a>
+      <ul class="collapse list-unstyled" id="homeSubmenu2">
+        <li>
+          <a href="criminals between dates.html">B/W dates report of criminals</a>
+        </li>
+        <li>
+          <a href="firs between dates.html">B/W dates reports of FIR</a>
+        </li>
+
+      </ul>
+    </li>
+      <li >
+      <a href="#homeSubmenu3" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Search</a>
+      <ul class="collapse list-unstyled" id="homeSubmenu3">
+        <li>
+          <a href="search criminal.html">Search criminals</a>
+        </li>
+        <li>
+          <a href="search fir.html">Search FIR</a>
+        </li>
+
+      </ul>
+    </li>
+    </ul>
+ </nav>
+
+
+<div id="content">
+	<header>
+    <nav class="navbar navbar-expand-lg navbar-light " style="">
+      <div id="container" styles="height:100px;">
+      	<div class="navbar-header">
+      	<button type="button" id="sidebarCollapse" class="btn  btn-info" style="background-color: #e7e7e7; color: black;">
+        <i class="fas fa-align-left" ></i>
+        </button><span style="padding-left:5px;">Library management system</span>
+    </div>
+         <div id="collapsable-nav" class="collapse navbar-collapse">
+      <ul id="nav-list" class="nav navbar-nav navbar-right">
+         
+         
+  <button class="btn btn-light dropdown-toggle top-left" type="button" data-toggle="dropdown" data-target="#1"><i class="fas fa-user"></i>
+  <span class="caret"></span>
+  <ul class="dropdown-menu" id="1">
+    <li><a href="#">Sign out</a></li>
+    <li class="divider"></li>
+    <li><a href="#">User Profile</a></li>
+  </ul>
+  </button>
+    
+   
+           
+
+      </ul>
+    </div>
+      </div>
+      </nav>
+         
+</header>
+ 
+
+<div class="forms">
+    <form class="loginbox"  >
+      <h1>Admin profile</h1>
+      <div class="textbox" >
+        <span class="col-lg-6">Admin name:</span>
+        <input type="text" name="" value=""  class="col-lg-6" style="width:500px;">
+        
+      </div>
+      
+      <div class="textbox">
+        <span class="col-lg-6">User name:</span>
+        <input type="text"  name="" value="" class="col-lg-6">
+      </div>
+        <div class="textbox">
+          <span class="col-lg-6">Email:</span>
+        <input type="email"  name="" value="" class="col-lg-6">
+      </div>
+      <div class="textbox">
+        <span class="col-lg-6">Contact number:</span>
+        <input type="number"  name="" value="" class="col-lg-6">
+      </div>
+      
+      <div class="textbox">
+        <span class="col-lg-6">Admin registration date:</span>
+        <input type="date time"  name="" value="" class="col-lg-6">
+      </div> 
+      
+      
+      
+      <span><input class="btns" type="button" name="" value="Update"></span>
+      </form>
+
+    
+</div>
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<script>
+
+$(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });
+
+</script>
+
+
+</body>
+</html>

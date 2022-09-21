@@ -1,0 +1,144 @@
+@import"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+  
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fafafa;
+}
+{
+  box-sizing:border-box;
+}
+
+.container{
+height:75px;
+
+}
+#header-nav{
+  background-color: #B22222;
+  border-radius:0px;
+  border:0px ;
+  opacity:0.85;
+}
+.navbar-brand{
+
+
+}
+
+.navbar-brand h1{
+font-family: 'Lora',serif;
+color:#FDF5E6;
+font-size:2em;
+text-transform:uppercase;
+font-weight: bold;
+text-shadow: 1px 1px 1px #222;
+margin-top:7px;
+line-height: 0.75;
+vertical-align:center;
+transform: translateX(-140px);
+}
+.navbar-brand a:hover,.navbar-brand a:focus{
+  text-decoration:none;
+}
+.btn{
+  margin-top:17px;
+  
+  transform: translateX(140px);
+}
+
+.loginbox{
+  background-color:black;
+  width: 27%;
+  position:relative;
+   opacity:0.9;
+  color:white;
+  transform:translate(140%,50%);
+  
+  border:5px black;
+  border-radius:3px;
+  overflow:auto;
+  margin-bottom:50px;
+}
+.loginbox h1{
+  
+ 
+  font-size:40px;
+  text-align: center;
+  color:white;
+  padding:30px;
+  letter-spacing: 1.5px;
+  
+}
+
+
+
+.textbox{
+  
+  padding:8px 0;
+  margin:8px 0;
+  width:100%;
+  overflow:hidden;
+  font-size:15px;
+  
+}
+
+input{
+  height:35px;
+  color:black;
+  
+  width:86%;
+  border-radius: 2px;
+  border-color: white;
+  transform:translateX(7.5%);
+}
+label{
+  font-size:0.9em;
+  margin-left:7.5%;
+}
+.month,.date,.year{
+   width:27.5%;
+   margin-left:2px;
+   transform:translateX(21%);
+}
+.btns{
+
+  width:30%;
+  border-radius:4px;
+  padding: 3px;
+  background:#B22222;
+  border:2px solid #B22222;
+  color:white;
+  font-size:17px;
+  cursor:pointer;
+   text-align:center;
+  transform: translateX(95%);
+margin:30px;
+  
+}
+
+footer{
+  background-color: #B22222;
+  opacity:0.85;
+  text-align:right;
+  height:80px;
+  vertical-align: center;
+  color:#FDF5E6;
+  position:absolute;
+  bottom:0px;
+  right:0px;
+  width:100%;
+}
+div.row {
+  
+  margin-top:10px;
+}
+#hours {
+  line-height: 2;
+}
+#hours > span {
+  font-size: 1.3em;
+}
+
+
+
+
+
+
